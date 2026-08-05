@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Open Imperium Galactica",
+    "description": "Free & open-source reimplementation of Imperium Galactica — a classic 4X real-time space strategy game."
+  },
+  "communicator": {
+    "downloadLabel": "DOWNLOAD",
+    "openHint": "Open downloads",
+    "closeHint": "Close downloads"
+  },
+  "sections": {
+    "home": "Home",
+    "download": "Download",
+    "media": "Media",
+    "features": "Features",
+    "requirements": "Requirements",
+    "community": "Community",
+    "credits": "Credits"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ru": "Русский"
+  }
+}

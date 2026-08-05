@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+:root {
+  --ig-red: #fc2828;
+  --ig-green: #6cb068;
+  --ig-cyan: #40c0e0;
+  --ig-gold: #f0d060;
+}
+
+@theme inline {
+  --font-ig: var(--font-ig-face), ui-monospace, monospace;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  overscroll-behavior: none;
+  background: #000;
+}
+
+.pixelated {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* Game cursors (32×32, hotspots approximated) */
+html,
+body,
+* {
+  cursor: url("/assets/cursors/pointer.png") 0 0, auto;
+}
+
+.cursor-hand,
+.cursor-hand * {
+  cursor: url("/assets/cursors/hand.png") 8 8, pointer !important;
+}
+
+.cursor-pointer {
+  cursor: url("/assets/cursors/pointer.png") 0 0, auto;
+}
+
+a,
+button,
+select,
+[role="button"] {
+  cursor: url("/assets/cursors/hand.png") 8 8, pointer;
+}
+
+/* Screen-reader-only SEO content (fixed so it never expands scroll areas) */
+.sr-only {
+  position: fixed;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}

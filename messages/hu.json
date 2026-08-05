@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Open Imperium Galactica",
+    "description": "Az Imperium Galactica szabad, nyílt forráskódú újraimplementációja — klasszikus 4X valós idejű űrstratégia."
+  },
+  "communicator": {
+    "downloadLabel": "LETÖLTÉS",
+    "openHint": "Letöltések megnyitása",
+    "closeHint": "Letöltések bezárása"
+  },
+  "sections": {
+    "home": "Kezdőlap",
+    "download": "Letöltés",
+    "media": "Média",
+    "features": "Funkciók",
+    "requirements": "Követelmények",
+    "community": "Közösség",
+    "credits": "Kreditek"
+  },
+  "language": {
+    "label": "Nyelv",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ru": "Русский"
+  }
+}

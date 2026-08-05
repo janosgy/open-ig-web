@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Open Imperium Galactica",
+    "description": "Reimplementación libre y de código abierto de Imperium Galactica — un clásico 4X de estrategia espacial en tiempo real."
+  },
+  "communicator": {
+    "downloadLabel": "DESCARGAR",
+    "openHint": "Abrir descargas",
+    "closeHint": "Cerrar descargas"
+  },
+  "sections": {
+    "home": "Inicio",
+    "download": "Descargar",
+    "media": "Medios",
+    "features": "Funciones",
+    "requirements": "Requisitos",
+    "community": "Comunidad",
+    "credits": "Créditos"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ru": "Русский"
+  }
+}

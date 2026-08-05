@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Open Imperium Galactica",
+    "description": "Свободная open-source реимплементация Imperium Galactica — классическая космическая 4X-стратегия в реальном времени."
+  },
+  "communicator": {
+    "downloadLabel": "СКАЧАТЬ",
+    "openHint": "Открыть загрузки",
+    "closeHint": "Закрыть загрузки"
+  },
+  "sections": {
+    "home": "Главная",
+    "download": "Скачать",
+    "media": "Медиа",
+    "features": "Возможности",
+    "requirements": "Требования",
+    "community": "Сообщество",
+    "credits": "Авторы"
+  },
+  "language": {
+    "label": "Язык",
+    "en": "English",
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "ru": "Русский"
+  }
+}
